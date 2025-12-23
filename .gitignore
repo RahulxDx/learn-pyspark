@@ -1,0 +1,5 @@
+# Virtual environment
+pyspack_env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
