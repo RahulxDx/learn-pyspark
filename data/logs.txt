@@ -1,0 +1,10 @@
+2024-01-01 INFO User logged in
+2024-01-01 ERROR Invalid password
+2024-01-01 INFO User viewed dashboard
+2024-01-02 INFO User logged out
+2024-01-02 WARN Disk space low
+2024-01-02 INFO User logged in
+2024-01-03 ERROR Payment failed
+2024-01-03 INFO User logged in
+2024-01-03 WARN High memory usage
+2024-01-03 INFO User logged out
